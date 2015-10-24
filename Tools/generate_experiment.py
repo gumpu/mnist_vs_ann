@@ -76,7 +76,6 @@ model_in = ./models/{:04d}.model
         outpf.write(test_config)
 
 #=============================================================================
-
 class Experiment():
 
     def __init__(self, name):
